@@ -1,0 +1,50 @@
+[
+    {
+        "text": "अनार",
+        "image": "https://images.pexels.com/photos/4869085/pexels-photo-4869085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "आम",
+        "image": "https://images.pexels.com/photos/16977470/pexels-photo-16977470/free-photo-of-unripe-mango-fruit-on-tree.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "इमली",
+        "image": "https://images.pexels.com/photos/15095868/pexels-photo-15095868/free-photo-of-close-up-of-a-tamarind.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "ईख",
+        "image": "https://images.pexels.com/photos/2254100/pexels-photo-2254100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "उल्लू",
+        "image": "https://images.pexels.com/photos/1543417/pexels-photo-1543417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "ऊंट",
+        "image": "https://images.pexels.com/photos/3540894/pexels-photo-3540894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "ऋषि",
+        "image": "https://images.pexels.com/photos/12700040/pexels-photo-12700040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "एडी",
+        "image": "https://images.pexels.com/photos/6900676/pexels-photo-6900676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "ऐरावत",
+        "image": "https://images.pexels.com/photos/133394/pexels-photo-133394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "ओखली",
+        "image": "https://images.pexels.com/photos/4871289/pexels-photo-4871289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "औरत",
+        "image": "https://images.pexels.com/photos/4511649/pexels-photo-4511649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "text": "अंगूर",
+        "image": "https://images.pexels.com/photos/60021/grapes-wine-fruit-vines-60021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
